@@ -26,3 +26,5 @@ Now, the downloads_manager.py script will run automatically at startup and organ
 
 # Note
 The file paths used in the scripts are specific to my machine and for personal use. You will need to modify the file paths in the scripts to match your machine's file structure.
+
+This project was made in python using the watchdog library.
